@@ -247,3 +247,5 @@ if hasattr(PromptServer, "instance"):
         )
     except:
         pass
+
+print("[kj_nodes_custom] loaded")
